@@ -1,3 +1,4 @@
 
-.vs/
-.Sorting/bin/
+.vs
+.Sorting/bin
+.Tests/bin

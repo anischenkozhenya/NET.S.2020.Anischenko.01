@@ -1,0 +1,5 @@
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.01\NET.S.2020.Anischenko.01\Sorting\bin\Debug\Sorting.dll
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.01\NET.S.2020.Anischenko.01\Sorting\bin\Debug\Sorting.pdb
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.01\NET.S.2020.Anischenko.01\Sorting\obj\Debug\Sorting.csprojAssemblyReference.cache
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.01\NET.S.2020.Anischenko.01\Sorting\obj\Debug\Sorting.dll
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.01\NET.S.2020.Anischenko.01\Sorting\obj\Debug\Sorting.pdb
