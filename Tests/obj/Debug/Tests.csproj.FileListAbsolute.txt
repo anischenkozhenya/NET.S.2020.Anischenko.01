@@ -1,0 +1,11 @@
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.01\NET.S.2020.Anischenko.01\Tests\bin\Debug\Tests.dll
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.01\NET.S.2020.Anischenko.01\Tests\bin\Debug\Tests.pdb
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.01\NET.S.2020.Anischenko.01\Tests\bin\Debug\nunit.framework.dll
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.01\NET.S.2020.Anischenko.01\Tests\bin\Debug\Sorting.dll
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.01\NET.S.2020.Anischenko.01\Tests\bin\Debug\Sorting.pdb
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.01\NET.S.2020.Anischenko.01\Tests\bin\Debug\nunit.framework.pdb
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.01\NET.S.2020.Anischenko.01\Tests\bin\Debug\nunit.framework.xml
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.01\NET.S.2020.Anischenko.01\Tests\obj\Debug\Tests.csprojAssemblyReference.cache
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.01\NET.S.2020.Anischenko.01\Tests\obj\Debug\Tests.csproj.CopyComplete
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.01\NET.S.2020.Anischenko.01\Tests\obj\Debug\Tests.dll
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.01\NET.S.2020.Anischenko.01\Tests\obj\Debug\Tests.pdb
