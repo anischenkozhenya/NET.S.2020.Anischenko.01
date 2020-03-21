@@ -7,7 +7,7 @@ namespace Tests
     public class MergeSortTests
     {
         [Test]
-        public void EvenArray()
+        public void MergeSortMethodEvenArray()
         {
             var unSortedArray = new int[] { 8, 3, 2, 4, 5, 6, 1, 7 };
             var expected = new int[] { 1, 2, 3, 4, 5, 6, 7, 8 };
@@ -15,7 +15,7 @@ namespace Tests
             Assert.AreEqual(expected, actual);
         }
         [Test]
-        public void AddArray()
+        public void MergeSortMethodAddArray()
         {
             var unSortedArray = new int[] { 8, 3, 2, 5, 6, 1, 7 };
             var expected = new int[] { 1, 2, 3, 5, 6, 7, 8 };
